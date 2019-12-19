@@ -9,5 +9,3 @@ I built the game with HTML, CSS and plain JS, to improve my JavaScript skills. :
 Have fun playing.
 
 <h3> Demo: https://t1m0r.github.io/RGB-Guessing-Game/</h3>
-
-[comment] : <> (If you guess correctly: ![Image of winning in the Game(currently unavailable)](Screenshots/win.PNG))
